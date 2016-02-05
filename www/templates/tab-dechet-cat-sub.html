@@ -1,0 +1,17 @@
+<ion-view view-title="Déchets">
+  <ion-content class="">
+   
+   <div class="list">
+
+        <a ng-repeat="dechet in ::dechets | filter:{ cat_usuel : selected_categorie_usuelle }"
+           ng-href="#/tab/dechet/detail/{{::dechet.code}}"
+           class="item item-thumbnail-left item-stable">
+
+          <img ng-src="resources/images/{{::dechet.image}}"/>
+          <h2>{{::dechet.nom}}</h2>
+        </a>
+
+   </div>    
+      
+  </ion-content>
+</ion-view>

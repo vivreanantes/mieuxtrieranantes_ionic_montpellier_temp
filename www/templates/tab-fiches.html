@@ -1,0 +1,19 @@
+<ion-view view-title="Fiches">
+ <ion-content class="padding">
+   
+ <div class="list">
+
+        <!-- one time binding sur fiches -->
+        <!-- Cf http://blog.thoughtram.io/angularjs/2014/10/14/exploring-angular-1.3-one-time-bindings.html -->
+        <a ng-repeat="fiche in ::fiches"
+           ng-href="#/tab/fiches/detail/{{::fiche.code}}"
+           class="item item-thumbnail-left">
+
+          <img ng-src="resources/images/{{::fiche.image}}"/>
+          <h2>{{::fiche.nom}}</h2>
+        </a>
+
+ </div>
+      
+  </ion-content>
+</ion-view>

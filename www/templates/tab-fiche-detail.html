@@ -1,0 +1,17 @@
+<ion-view view-title="Fiches">
+  <ion-content class="padding">
+   
+  <div>    
+      <a class="item item-thumbnail-left" href="#">
+      <img ng-src="resources/images/{{ fiche.image }}">
+      <h2><b>{{fiche.nom}}</b></h2>
+      </a>
+        
+      <p>
+      <span ng-bind-html="fiche.descr"></span>
+      </p>
+        
+  </div>
+      
+  </ion-content>
+</ion-view>

@@ -1,0 +1,26 @@
+/* Empty. Add your own CSS if you like */
+
+
+.mode-collecte {
+    
+    background-color: #F7F9E3;
+    padding:0.2em;
+    margin:0.4em 0em;
+    margin-left:1em;
+}
+
+.mode-collecte .description {
+    padding-top: 0.2em;
+    padding-left: 0.8em;
+    color:#555;
+}
+
+/* HACK : la description contient des images, des BR et c'est moche : on ne les affichent pas => à enlever des DATA !!! */
+.mode-collecte .description img {
+    
+    display: none;
+}
+
+.mode-collecte .description br {
+    height: 0.1em;
+}

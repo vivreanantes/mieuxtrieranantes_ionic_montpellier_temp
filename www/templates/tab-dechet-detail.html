@@ -1,0 +1,27 @@
+<ion-view view-title="Déchets">
+  <ion-content class="padding">
+   
+  <div>    
+      <a class="item item-thumbnail-left" href="#">
+      <img ng-src="resources/images/{{ dechet.image }}">
+      <h2><b>{{dechet.nom}}</b></h2>
+      </a>
+
+      <p><b>Modes de collecte </b></p>     
+      <div class="mode-collecte" ng-repeat="modeCollecte in modesCollecte" ng-click="toggleObject.item = $index">
+          <img style="width:1.5em" ng-src="resources/images/{{ modeCollecte.image }}"/> {{ modeCollecte.nom }}<br/>
+          <!-- INFO mode de collecte s'affiche uniquement sur ng-click du mode de collecte -->
+          <!-- Merci AngularJS pour pouvoir le faire en quelques lignes !! -->
+          <div class="description" ng-show="toggleObject.item == $index" class="mode-collecte-info">
+              <!-- HTML BRUT affiché car le champ descr contient des balises HTML -->
+              <p ng-bind-html="modeCollecte.descr"></p>
+          </div>
+      </div>
+        
+      <p><b>Concerne :</b> {{dechet.descr}}</p>
+      <p><b>Source :</b> {{dechet.src}}</p>
+        
+  </div>
+      
+  </ion-content>
+</ion-view>

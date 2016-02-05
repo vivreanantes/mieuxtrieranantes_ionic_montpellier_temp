@@ -1,0 +1,26 @@
+<ion-view view-title="Structures">
+  
+  <ion-content class="padding">
+   
+  <label class="item item-input item-select">
+    <div class="input-label">Type</div>
+    <select ng-model="formSelected.type" ng-options="collecte.name for collecte in typeCollecte" ng-change="onChangeForm()"></select>
+  </label>         
+  
+  <label class="item item-input">
+    
+     <input ng-model="formSelected.searchKey" ngMinlength="3" placeholder="Nom,mot-clé,..." />
+  </label>
+      
+ 
+  
+  <ion-list>
+    <ion-item ng-repeat="result in results">
+      {{result.nom}}
+    </ion-item>
+  </ion-list>
+
+  
+  </ion-content>
+    
+</ion-view>
