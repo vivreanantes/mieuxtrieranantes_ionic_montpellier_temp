@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="www/lib/angular-leaflet-directive/test/e2e/|www/lib/angular-leaflet-directive/src/services/|www/lib/leaflet-markercluster/|**/node_modules/*|www/lib/transliteration/lib/|www/lib/angular-leaflet-directive/test/unit/plugin/|www/js/controller/|www/lib/angular-leaflet-directive/src/services/events/|www/resources/data/|www/lib/transliteration/data/|www/lib/leaflet-markercluster/spec/|www/lib/leaflet-markercluster/dist/|**/bower_components/*|www/js/service/|www/lib/leaflet/|www/lib/angular-leaflet-directive/test/unit/services/|www/lib/angular-leaflet-directive/test/unit/layersDirective/|www/lib/ionic/js/angular-ui/|**/*.min.js|www/lib/angular-leaflet-directive/test/unit/leafletData/|www/lib/fastclick/|www/lib/leaflet-markercluster/src/|www/lib/angular-leaflet-directive/examples/js/|www/lib/leaflet-markercluster/build/|www/js/|www/lib/angular-leaflet-directive/src/directives/|www/lib/angular-leaflet-directive/dist/|www/lib/leaflet-markercluster/spec/suites/|www/lib/ionic/js/|www/lib/leaflet-markercluster/example/|www/lib/angular-leaflet-directive/|www/lib/transliteration/|www/lib/angular-leaflet-directive/examples/js/controllers/|www/lib/angular-leaflet-directive/test/unit/|www/lib/angular-leaflet-directive/test/|www/lib/ionic/js/angular/" kind="src" path=""/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|controller/|**/*.min.js|service/" kind="src" path="www/js"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="www/js/controller"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="www/js/service"/>
+	<classpathentry excluding="dist/|test/unit/|**/node_modules/*|examples/js/|test/unit/plugin/|test/e2e/|src/directives/|src/services/events/|src/services/|**/bower_components/*|test/|test/unit/services/|test/unit/layersDirective/|examples/js/controllers/|test/unit/leafletData/|**/*.min.js" kind="src" path="www/lib/angular-leaflet-directive"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="www/lib/angular-leaflet-directive/dist"/>
+	<classpathentry excluding="controllers/|**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="www/lib/angular-leaflet-directive/examples/js"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="www/lib/angular-leaflet-directive/examples/js/controllers"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="www/lib/angular-leaflet-directive/src/directives"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js|events/" kind="src" path="www/lib/angular-leaflet-directive/src/services"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="www/lib/angular-leaflet-directive/src/services/events"/>
+	<classpathentry excluding="**/bower_components/*|unit/plugin/|unit/leafletData/|**/node_modules/*|e2e/|**/*.min.js|unit/|unit/services/|unit/layersDirective/" kind="src" path="www/lib/angular-leaflet-directive/test"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="www/lib/angular-leaflet-directive/test/e2e"/>
+	<classpathentry excluding="layersDirective/|services/|**/bower_components/*|**/node_modules/*|leafletData/|plugin/|**/*.min.js" kind="src" path="www/lib/angular-leaflet-directive/test/unit"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="www/lib/angular-leaflet-directive/test/unit/layersDirective"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="www/lib/angular-leaflet-directive/test/unit/leafletData"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="www/lib/angular-leaflet-directive/test/unit/plugin"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="www/lib/angular-leaflet-directive/test/unit/services"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="www/lib/fastclick"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|angular-ui/|**/*.min.js|angular/" kind="src" path="www/lib/ionic/js"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="www/lib/ionic/js/angular"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="www/lib/ionic/js/angular-ui"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="www/lib/leaflet"/>
+	<classpathentry excluding="example/|dist/|**/bower_components/*|**/node_modules/*|spec/suites/|**/*.min.js|build/|src/|spec/" kind="src" path="www/lib/leaflet-markercluster"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="www/lib/leaflet-markercluster/build"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="www/lib/leaflet-markercluster/dist"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="www/lib/leaflet-markercluster/example"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|suites/|**/*.min.js" kind="src" path="www/lib/leaflet-markercluster/spec"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="www/lib/leaflet-markercluster/spec/suites"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="www/lib/leaflet-markercluster/src"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|lib/|**/*.min.js|data/" kind="src" path="www/lib/transliteration"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="www/lib/transliteration/data"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="www/lib/transliteration/lib"/>
+	<classpathentry excluding="**/bower_components/*|**/node_modules/*|**/*.min.js" kind="src" path="www/resources/data"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

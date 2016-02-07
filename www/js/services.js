@@ -26,22 +26,22 @@ angular.module('starter.services', [])
   function iconMapper(structure) {
            
       var iconTypeMap = {};      
-      iconTypeMap["Conteneur verre"] = 'img/marker_verre.png';
-      iconTypeMap["Conteneur verre, "] = 'img/marker_verre.png';
-      iconTypeMap["Conteneurs verre"] = 'img/marker_verre.png';
-      iconTypeMap["Conteneurs : verre, papier-carton"] = 'img/marker_verre_carton.png';    
-      iconTypeMap["Conteneur papier-carton"] = 'img/marker_verre_carton.png';
-      iconTypeMap["Conteneurs : verre, papier-carton, plastique"] = 'img/marker_verre_carton_plastique.png';
-      iconTypeMap["Conteneurs : papier-carton, plastique"] = 'img/marker_verre_carton_plastique.png';
-      iconTypeMap["Conteneurs : verre, plastique"] = 'img/marker_verre_carton_plastique.png';
-      iconTypeMap["Conteneur verre, papier, plastique"] = 'img/marker_verre_carton_plastique.png';
-      iconTypeMap["Conteneur verre, papier"] = 'img/marker_verre_carton.png';
+      iconTypeMap["Conteneur verre"] = 'resources/images/montpellier/marker_verre.png';
+      iconTypeMap["Conteneur verre, "] = 'resources/images/montpellier/marker_verre.png';
+      iconTypeMap["Conteneurs verre"] = 'resources/images/montpellier/marker_verre.png';
+      iconTypeMap["Conteneurs : verre, papier-carton"] = 'resources/images/montpellier/marker_verre_carton.png';    
+      iconTypeMap["Conteneur papier-carton"] = 'resources/images/montpellier/marker_verre_carton.png';
+      iconTypeMap["Conteneurs : verre, papier-carton, plastique"] = 'resources/images/montpellier/marker_verre_carton_plastique.png';
+      iconTypeMap["Conteneurs : papier-carton, plastique"] = 'resources/images/montpellier/marker_verre_carton_plastique.png';
+      iconTypeMap["Conteneurs : verre, plastique"] = 'resources/images/montpellier/marker_verre_carton_plastique.png';
+      iconTypeMap["Conteneur verre, papier, plastique"] = 'resources/images/montpellier/marker_verre_carton_plastique.png';
+      iconTypeMap["Conteneur verre, papier"] = 'resources/images/montpellier/marker_verre_carton.png';
       
       //LISTE des différentes icônes
       var iconDefault={};     
       var iconBase= {
-                    //iconUrl: '/img/marker_verre.png',
-                    //shadowUrl: '/img/leaf-shadow.png',
+                    //iconUrl: '/resources/images/montpellier/marker_verre.png',
+                    //shadowUrl: '/resources/images/montpellier/leaf-shadow.png',
                     iconSize:     [32, 48], // size of the icon
                     shadowSize:   [32, 48], // size of the shadow
                     iconAnchor:   [15, 48], // point of the icon which will correspond to marker's location
