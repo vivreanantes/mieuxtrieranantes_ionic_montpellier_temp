@@ -2,7 +2,13 @@ angular.module('starter.controllers', [])
 
 .controller('DashCtrl', function($scope) {
     
-    
+  // TEMP CRN
+  $scope.myFunctionName = function(){
+    //return true or false here
+    if (isPageActive('accueil_nantes')) {
+      return true;
+    }
+  };
 })
 
 .controller('ChatsCtrl', function($scope, Chats) {
@@ -31,6 +37,10 @@ angular.module('starter.controllers', [])
 })
 .controller('DechetCatCtrl', function($scope) {
     
+  // TEMP CRN
+	// var tmp = getParam("geo.boundsMinLong");
+	// alert(tmp);
+	
     //GLOBAL DATA SOURCE
     $scope.categories=_usualCategoriesDatas;
     
@@ -49,6 +59,7 @@ angular.module('starter.controllers', [])
     dechets=$filter('filter')(_garbagesDatas, {code : dechet_code});
 
     $scope.toggleObject = {item: -1};
+    $scope.toggleObject2 = {item2: -1};
 
     //Le filter renvoie necessairement un Array donc on extrait le premier élément trouvé
     var dechet=dechets[0];
@@ -66,10 +77,33 @@ angular.module('starter.controllers', [])
                 else return false;
         }
     );
+
+    // CRN
+    // Tableau des conseils (découpage de la chaine)
+    if (dechet.cons!=null) {
+    var conseils = dechet.cons.split(",");
    
+    // RE-FILTER sur les conseils
+    var conseilsFilter = $filter('filter')(
+    	_advicesDatas, 
+        // CUSTOM INLINE FILTER
+        function (value, index, fullarray) {    
+           // Conseils déchet           
+           myindex=conseils.indexOf(value.code);
+           if (myindex >=0) {
+            return true;
+          } else {
+            return false;
+          }
+        }
+    );
+    }
+
+    
    //SCOPE
    $scope.dechet=dechet; 
    $scope.modesCollecte=modesCollectesFilter;
+   $scope.conseils=conseilsFilter;
 
 })
 
@@ -108,7 +142,5 @@ angular.module('starter.controllers', [])
         $scope.results=ServiceStructures.search($scope.formSelected.type, $scope.formSelected.searchKey);      
 
     };
-
-
 })
 ;

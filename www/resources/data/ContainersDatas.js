@@ -1,5 +1,5 @@
-var _containersDatas = [
-{"code":"struc1","type":"DÃ©chÃ¨terie centre","longitude":"2.4272287","latitude":"42.6262283","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+var _conteneursDatas = [
+{"code":"struc1","type":"Déchèterie centre","longitude":"2.4272287","latitude":"42.6262283","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 {"code":"struc3","type":"Conteneur verre","longitude":"3.8813483","latitude":"43.6331866","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc4","type":"Conteneur papier","longitude":"3.8818727","latitude":"43.6272455","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -33,7 +33,7 @@ var _containersDatas = [
 
 
 
-{"code":"struc35","type":"Conteneur verre, vÃªtements","longitude":"3.8886593","latitude":"43.6078558","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc35","type":"Conteneur verre, vêtements","longitude":"3.8886593","latitude":"43.6078558","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 {"code":"struc37","type":"Conteneur verre","longitude":"2.8972156","latitude":"42.6813505","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc38","type":"Conteneur verre","longitude":"4.0756607","latitude":"44.0846082","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -56,7 +56,7 @@ var _containersDatas = [
 {"code":"struc55","type":"Conteneur verre, papier, plastique","longitude":"2.2055148","latitude":"42.917033","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc56","type":"Conteneur verre, papier, plastique","longitude":"2.1886283","latitude":"42.9071717","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
-{"code":"struc58","type":"Conteneur verre, vÃªtements, piles","longitude":"2.876801","latitude":"43.1658816","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc58","type":"Conteneur verre, vêtements, piles","longitude":"2.876801","latitude":"43.1658816","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 
 {"code":"struc61","type":"Conteneur verre","longitude":"3.4464088","latitude":"43.2860122","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -97,7 +97,7 @@ var _containersDatas = [
 {"code":"struc96","type":"Conteneur verre","longitude":"3.8558195","latitude":"43.9627809","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc97","type":"Conteneur verre","longitude":"4.3860048","latitude":"43.8485926","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc98","type":"Conteneur verre","longitude":"3.9259396","latitude":"43.5294559","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc99","type":"Conteneur verre, vÃªtements","longitude":"4.3647792","latitude":"43.844686","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc99","type":"Conteneur verre, vêtements","longitude":"4.3647792","latitude":"43.844686","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc100","type":"Conteneur verre, papier, canettes","longitude":"2.2090437","latitude":"42.9176122","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc101","type":"Conteneur verre","longitude":"2.2170702","latitude":"42.9217426","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc102","type":"Conteneur papier, canettes","longitude":"2.2197906","latitude":"42.9205928","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -131,7 +131,7 @@ var _containersDatas = [
 {"code":"struc130","type":"Conteneur verre, papier","longitude":"3.9908589","latitude":"43.9719738","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc131","type":"Conteneur verre","longitude":"3.7252803","latitude":"43.9224029","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc132","type":"Conteneur papier","longitude":"3.9520342","latitude":"43.941565","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc133","type":"Conteneur verre, papier, vÃªtements, canettes","longitude":"4.1903437","latitude":"43.8848806","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc133","type":"Conteneur verre, papier, vêtements, canettes","longitude":"4.1903437","latitude":"43.8848806","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc134","type":"Conteneur verre","longitude":"4.3717226","latitude":"43.8369078","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc135","type":"Conteneur verre","longitude":"4.3517525","latitude":"43.7879128","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc136","type":"Conteneur verre","longitude":"4.380166","latitude":"43.8327245","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -150,7 +150,7 @@ var _containersDatas = [
 {"code":"struc149","type":"Conteneur verre","longitude":"4.3478784","latitude":"43.8324246","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc150","type":"Conteneur verre","longitude":"4.3734867","latitude":"43.8487719","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc151","type":"Conteneur verre","longitude":"4.3785732","latitude":"43.8529302","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc152","type":"Conteneur verre, vÃªtements","longitude":"4.3795388","latitude":"43.8556233","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc152","type":"Conteneur verre, vêtements","longitude":"4.3795388","latitude":"43.8556233","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc153","type":"Conteneur verre","longitude":"4.3811652","latitude":"43.8540617","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc154","type":"Conteneur verre","longitude":"4.3694203","latitude":"43.8501279","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc155","type":"Conteneur verre","longitude":"4.3739073","latitude":"43.827772","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -182,7 +182,7 @@ var _containersDatas = [
 {"code":"struc181","type":"Conteneur verre","longitude":"3.8452555","latitude":"43.6407559","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc182","type":"Conteneur verre, papier","longitude":"3.7232869","latitude":"43.9226062","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc183","type":"Conteneur verre, papier, piles","longitude":"3.9312982","latitude":"44.4491129","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc184","type":"DÃ©chÃ¨terie centre","longitude":"2.3823649","latitude":"42.555688","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc184","type":"Déchèterie centre","longitude":"2.3823649","latitude":"42.555688","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 
 {"code":"struc187","type":"Conteneur verre","longitude":"3.9881808","latitude":"43.6752492","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -197,7 +197,7 @@ var _containersDatas = [
 {"code":"struc196","type":"Conteneur papier, verre","longitude":"2.8563928","latitude":"43.2159578","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc197","type":"Conteneur papier, verre","longitude":"2.8563957","latitude":"43.2159248","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
-{"code":"struc199","type":"Conteneur papier, vÃªtements, verre","longitude":"2.8614384","latitude":"43.2149554","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc199","type":"Conteneur papier, vêtements, verre","longitude":"2.8614384","latitude":"43.2149554","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 
 
@@ -224,7 +224,7 @@ var _containersDatas = [
 
 {"code":"struc224","type":"Conteneur verre","longitude":"3.8512396","latitude":"43.9613024","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc225","type":"Conteneur verre","longitude":"3.8529796","latitude":"43.9638337","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc226","type":"Conteneur verre, papier, vÃªtements","longitude":"4.0785109","latitude":"44.0831806","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc226","type":"Conteneur verre, papier, vêtements","longitude":"4.0785109","latitude":"44.0831806","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc227","type":"Conteneur verre","longitude":"4.0042072","latitude":"44.0252064","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc228","type":"Conteneur verre","longitude":"3.7067201","latitude":"43.9348217","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc229","type":"Conteneur verre","longitude":"3.7057797","latitude":"43.9360131","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -240,7 +240,7 @@ var _containersDatas = [
 {"code":"struc239","type":"Conteneur verre","longitude":"4.2463715","latitude":"44.1419246","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 {"code":"struc241","type":"Conteneur verre","longitude":"3.8540073","latitude":"43.9677708","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc242","type":"DÃ©chÃ¨terie de CanohÃ¨s centre","longitude":"2.8500554","latitude":"42.6449159","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc242","type":"Déchèterie de Canohès centre","longitude":"2.8500554","latitude":"42.6449159","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc243","type":"Conteneur verre","longitude":"3.8804618","latitude":"43.8347555","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 
@@ -291,7 +291,7 @@ var _containersDatas = [
 {"code":"struc290","type":"Conteneur verre","longitude":"3.8826149","latitude":"43.9609377","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc291","type":"Conteneur verre","longitude":"3.9080836","latitude":"43.9471939","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc292","type":"Conteneur verre","longitude":"2.4030257","latitude":"42.6043499","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc293","type":"Conteneur vÃªtements","longitude":"4.3267821","latitude":"43.8244817","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc293","type":"Conteneur vêtements","longitude":"4.3267821","latitude":"43.8244817","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 {"code":"struc295","type":"Conteneur verre","longitude":"3.9990737","latitude":"44.0216427","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc296","type":"Conteneur verre","longitude":"3.9970934","latitude":"44.0225567","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -332,7 +332,7 @@ var _containersDatas = [
 {"code":"struc331","type":"Conteneur verre","longitude":"3.8834632","latitude":"43.9981334","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc332","type":"Conteneur verre","longitude":"3.8877245","latitude":"44.0014339","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
-{"code":"struc334","type":"Conteneur verre, vÃªtements","longitude":"4.4412169","latitude":"44.043544","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc334","type":"Conteneur verre, vêtements","longitude":"4.4412169","latitude":"44.043544","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc335","type":"Conteneur verre","longitude":"3.9103913","latitude":"44.0144481","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc336","type":"Conteneur verre","longitude":"3.9234368","latitude":"44.0199384","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
@@ -354,7 +354,7 @@ var _containersDatas = [
 {"code":"struc353","type":"Conteneur verre, papier, canettes","longitude":"2.1106969","latitude":"42.5669472","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc354","type":"Conteneur verre, papier","longitude":"2.1725016","latitude":"42.904893","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc355","type":"Conteneur verre","longitude":"2.1722238","latitude":"42.9120022","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc356","type":"Conteneur verre, vÃªtements","longitude":"4.201018","latitude":"43.6924645","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc356","type":"Conteneur verre, vêtements","longitude":"4.201018","latitude":"43.6924645","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc357","type":"Conteneur verre, papier, canettes","longitude":"2.0966946","latitude":"42.5194425","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc358","type":"Conteneur verre, papier","longitude":"4.053729","latitude":"44.1166469","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc359","type":"Conteneur verre","longitude":"3.9490288","latitude":"43.945936","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -364,7 +364,7 @@ var _containersDatas = [
 {"code":"struc363","type":"Conteneur papier, canettes, verre","longitude":"2.8991288","latitude":"42.6798788","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc364","type":"Conteneur papier, canettes","longitude":"2.8997224","latitude":"42.6795314","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc365","type":"Conteneur verre","longitude":"3.7149476","latitude":"43.9779057","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc366","type":"Point dÃ©chet conteneur","longitude":"3.5287133","latitude":"43.5581819","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc366","type":"Point déchet conteneur","longitude":"3.5287133","latitude":"43.5581819","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 {"code":"struc368","type":"Conteneur verre","longitude":"2.9313638","latitude":"42.6996345","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc369","type":"Conteneur verre","longitude":"2.948967","latitude":"42.7101915","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -377,21 +377,21 @@ var _containersDatas = [
 
 {"code":"struc377","type":"Conteneur verre","longitude":"2.9023162","latitude":"42.6850061","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
-{"code":"struc379","type":"Conteneur verre, papier, vÃªtements","longitude":"3.8068762","latitude":"43.6940926","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc379","type":"Conteneur verre, papier, vêtements","longitude":"3.8068762","latitude":"43.6940926","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 {"code":"struc381","type":"Conteneur verre, papier, canettes","longitude":"2.422828","latitude":"42.6171623","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc382","type":"Conteneur verre","longitude":"4.3485781","latitude":"43.8335046","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc383","type":"Conteneur verre, papier, canettes","longitude":"2.8952105","latitude":"42.6923514","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc384","type":"Conteneur verre","longitude":"2.2542494","latitude":"42.9982133","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc385","type":"Conteneur verre","longitude":"2.2574095","latitude":"42.9959951","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc386","type":"Conteneur vÃªtements, verre","longitude":"2.6271348","latitude":"43.2275916","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc386","type":"Conteneur vêtements, verre","longitude":"2.6271348","latitude":"43.2275916","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc387","type":"Conteneur verre","longitude":"2.6238092","latitude":"43.2242881","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc388","type":"Conteneur verre","longitude":"2.6271684","latitude":"43.2239754","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc389","type":"Conteneur verre, canettes","longitude":"3.7964135","latitude":"43.6465125","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc390","type":"Conteneur verre, papier, canettes","longitude":"2.4859995","latitude":"42.602135","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc391","type":"Conteneur verre, papier, vÃªtements, canettes","longitude":"2.3463188","latitude":"42.6644334","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc391","type":"Conteneur verre, papier, vêtements, canettes","longitude":"2.3463188","latitude":"42.6644334","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
-{"code":"struc393","type":"Conteneur verre, papier, vÃªtements, canettes","longitude":"2.1050631","latitude":"42.5142851","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc393","type":"Conteneur verre, papier, vêtements, canettes","longitude":"2.1050631","latitude":"42.5142851","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc394","type":"Conteneur verre, papier, canettes","longitude":"2.1135884","latitude":"42.5115668","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc395","type":"Conteneur verre, papier, canettes","longitude":"2.1076874","latitude":"42.5009086","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
@@ -402,7 +402,7 @@ var _containersDatas = [
 
 {"code":"struc402","type":"Conteneur papier","longitude":"2.2892415","latitude":"42.6227154","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
-{"code":"struc404","type":"Conteneur verre, vÃªtements","longitude":"3.9116363","latitude":"43.605905","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc404","type":"Conteneur verre, vêtements","longitude":"3.9116363","latitude":"43.605905","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc405","type":"Conteneur verre","longitude":"3.0669797","latitude":"43.6034341","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc406","type":"Conteneur verre","longitude":"3.1126441","latitude":"43.5940408","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc407","type":"Conteneur verre, papier, canettes","longitude":"3.5096116","latitude":"43.6510308","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -410,11 +410,11 @@ var _containersDatas = [
 {"code":"struc409","type":"Conteneur verre","longitude":"3.7325252","latitude":"43.6016494","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc410","type":"Conteneur verre, papier, piles","longitude":"1.9564775","latitude":"43.3097064","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc411","type":"Ferriol centre","longitude":"1.9538505","latitude":"43.3041941","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc412","type":"Conteneur verre, papier, vÃªtements, canettes","longitude":"2.6205362","latitude":"42.6766291","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc412","type":"Conteneur verre, papier, vêtements, canettes","longitude":"2.6205362","latitude":"42.6766291","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc413","type":"Conteneur verre","longitude":"4.0828489","latitude":"43.8986988","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc414","type":"Conteneur verre, papier, canettes","longitude":"2.183559","latitude":"42.5883395","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc415","type":"Conteneur verre, papier, canettes","longitude":"2.1759182","latitude":"42.6026153","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc416","type":"Conteneur verre, vÃªtements","longitude":"4.1925402","latitude":"43.7809603","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc416","type":"Conteneur verre, vêtements","longitude":"4.1925402","latitude":"43.7809603","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc417","type":"Conteneur verre, papier, canettes","longitude":"2.0768216","latitude":"42.588965","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc418","type":"Conteneur verre, papier","longitude":"3.777452","latitude":"44.1472926","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc419","type":"Conteneur papier","longitude":"3.8708738","latitude":"43.5980592","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -438,7 +438,7 @@ var _containersDatas = [
 
 {"code":"struc438","type":"Conteneur verre","longitude":"3.8784862","latitude":"43.9562243","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc439","type":"Conteneur verre","longitude":"3.877091","latitude":"43.9546002","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc440","type":"DÃ©chÃ¨terie Intercommunale centre","longitude":"3.878233","latitude":"43.9563832","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc440","type":"Déchèterie Intercommunale centre","longitude":"3.878233","latitude":"43.9563832","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc441","type":"Conteneur verre, papier, canettes","longitude":"2.1355163","latitude":"42.4933841","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc442","type":"Conteneur verre, papier","longitude":"3.869001","latitude":"43.6202745","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc443","type":"Conteneur verre, papier, canettes","longitude":"2.3651467","latitude":"42.586138","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -474,14 +474,14 @@ var _containersDatas = [
 {"code":"struc473","type":"Conteneur verre","longitude":"3.738201","latitude":"43.6088158","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 
-{"code":"struc476","type":"Conteneur verre, papier, vÃªtements","longitude":"3.7029319","latitude":"43.7428456","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc476","type":"Conteneur verre, papier, vêtements","longitude":"3.7029319","latitude":"43.7428456","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc477","type":"Conteneur verre","longitude":"4.1791906","latitude":"43.7376593","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc478","type":"Conteneur verre, papier","longitude":"4.1878239","latitude":"43.7325345","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc479","type":"Conteneur verre","longitude":"4.1839608","latitude":"43.7358601","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc480","type":"Conteneur verre","longitude":"4.1816293","latitude":"43.7388719","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc481","type":"Conteneur verre","longitude":"4.1823169","latitude":"43.7452573","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc482","type":"Conteneur papier, plastique, canettes, verre","longitude":"3.5503579","latitude":"43.7015838","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc483","type":"DÃ©chÃ¨terie de Montpeyroux centre","longitude":"3.5166543","latitude":"43.6908157","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc483","type":"Déchèterie de Montpeyroux centre","longitude":"3.5166543","latitude":"43.6908157","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc484","type":"Conteneur verre, papier, plastique","longitude":"3.553163","latitude":"43.6983788","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc485","type":"Conteneur verre, papier, plastique","longitude":"3.5550503","latitude":"43.7016786","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc486","type":"Conteneur verre","longitude":"4.1748675","latitude":"43.7397038","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -505,7 +505,7 @@ var _containersDatas = [
 
 
 {"code":"struc506","type":"Conteneur verre, papier","longitude":"2.9353673","latitude":"42.5238561","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc507","type":"DÃ©chÃ¨terie centre","longitude":"2.9401388","latitude":"42.5417729","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc507","type":"Déchèterie centre","longitude":"2.9401388","latitude":"42.5417729","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc508","type":"Conteneur verre, papier","longitude":"4.1471243","latitude":"43.7531259","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc509","type":"Conteneur verre","longitude":"3.9060651","latitude":"43.6053388","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc510","type":"Conteneur verre","longitude":"3.7547577","latitude":"43.5790595","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -528,7 +528,7 @@ var _containersDatas = [
 
 
 {"code":"struc529","type":"Conteneur verre, papier, plastique","longitude":"2.9033789","latitude":"42.6967622","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc530","type":"Conteneur verre, papier, vÃªtements, canettes, piles","longitude":"3.0944381","latitude":"43.1187604","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc530","type":"Conteneur verre, papier, vêtements, canettes, piles","longitude":"3.0944381","latitude":"43.1187604","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc531","type":"Conteneur verre, papier","longitude":"3.8827801","latitude":"43.601622","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc532","type":"Conteneur verre, papier","longitude":"3.8952445","latitude":"43.6040441","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc533","type":"Conteneur verre, papier","longitude":"3.8850078","latitude":"43.6018227","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -538,11 +538,11 @@ var _containersDatas = [
 {"code":"struc537","type":"Conteneur verre, papier, canettes","longitude":"3.330371","latitude":"43.7426633","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc538","type":"Conteneur verre, papier, canettes","longitude":"3.3578616","latitude":"43.752313","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc539","type":"Conteneur verre, papier, canettes","longitude":"3.213457","latitude":"43.7998178","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc540","type":"Conteneur verre, papier, vÃªtements, canettes, piles","longitude":"3.5795598","latitude":"43.6949779","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc540","type":"Conteneur verre, papier, vêtements, canettes, piles","longitude":"3.5795598","latitude":"43.6949779","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 
 {"code":"struc543","type":"Conteneur verre, papier","longitude":"3.8596281","latitude":"43.6282568","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc544","type":"Conteneur verre, vÃªtements","longitude":"3.8695076","latitude":"43.6380424","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc544","type":"Conteneur verre, vêtements","longitude":"3.8695076","latitude":"43.6380424","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 {"code":"struc546","type":"Conteneur verre","longitude":"3.8435626","latitude":"43.6351117","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc547","type":"Conteneur verre","longitude":"3.8470473","latitude":"43.6360113","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -554,13 +554,13 @@ var _containersDatas = [
 {"code":"struc553","type":"Conteneur verre, papier, canettes","longitude":"3.2889894","latitude":"43.7772636","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc554","type":"Conteneur verre, papier, canettes","longitude":"3.0901143","latitude":"43.1086635","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
-{"code":"struc556","type":"Conteneur vÃªtements","longitude":"4.1933973","latitude":"43.6368454","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc556","type":"Conteneur vêtements","longitude":"4.1933973","latitude":"43.6368454","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc557","type":"Conteneur verre, papier","longitude":"3.7340076","latitude":"43.7929977","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc558","type":"Conteneur verre, papier, canettes","longitude":"3.4102698","latitude":"43.6682589","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
-{"code":"struc560","type":"Conteneur vÃªtements, verre","longitude":"4.0813977","latitude":"43.7815938","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc560","type":"Conteneur vêtements, verre","longitude":"4.0813977","latitude":"43.7815938","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
-{"code":"struc562","type":"Conteneur vÃªtements","longitude":"3.7338369","latitude":"43.7906083","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc562","type":"Conteneur vêtements","longitude":"3.7338369","latitude":"43.7906083","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 
 {"code":"struc565","type":"Conteneur papier","longitude":"2.8987189","latitude":"42.6986365","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -579,7 +579,7 @@ var _containersDatas = [
 {"code":"struc578","type":"Conteneur verre, papier, canettes","longitude":"2.8722288","latitude":"43.1629165","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 {"code":"struc580","type":"Conteneur verre, papier","longitude":"2.4249938","latitude":"42.6185571","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc581","type":"Conteneur verre, papier, vÃªtements, canettes","longitude":"3.4515196","latitude":"43.6173198","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc581","type":"Conteneur verre, papier, vêtements, canettes","longitude":"3.4515196","latitude":"43.6173198","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 
 
@@ -599,7 +599,7 @@ var _containersDatas = [
 {"code":"struc598","type":"Conteneur verre","longitude":"4.264389","latitude":"43.7257082","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc599","type":"Conteneur verre","longitude":"4.2610255","latitude":"43.7374923","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc600","type":"Conteneur verre","longitude":"4.1166186","latitude":"43.7882775","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc601","type":"Conteneur verre, vÃªtements","longitude":"4.1218791","latitude":"43.8115977","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc601","type":"Conteneur verre, vêtements","longitude":"4.1218791","latitude":"43.8115977","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 {"code":"struc603","type":"Conteneur verre","longitude":"3.0893547","latitude":"43.6554671","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc604","type":"Conteneur verre","longitude":"4.0631838","latitude":"43.8353366","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -608,7 +608,7 @@ var _containersDatas = [
 
 
 {"code":"struc609","type":"Conteneur verre, papier, canettes","longitude":"3.7780122","latitude":"43.4351938","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc610","type":"Conteneur papier, vÃªtements","longitude":"2.047645","latitude":"42.9197163","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc610","type":"Conteneur papier, vêtements","longitude":"2.047645","latitude":"42.9197163","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc611","type":"Conteneur verre, papier","longitude":"3.8216048","latitude":"44.2118333","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc612","type":"Conteneur verre, papier","longitude":"3.4267664","latitude":"44.2518042","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
@@ -616,7 +616,7 @@ var _containersDatas = [
 {"code":"struc615","type":"Conteneur verre, papier","longitude":"3.8074968","latitude":"44.214025","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc616","type":"Conteneur verre, papier","longitude":"3.8756397","latitude":"44.2247027","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc617","type":"Conteneur verre, papier","longitude":"3.8344517","latitude":"44.2497882","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc618","type":"Conteneur vÃªtements, verre","longitude":"3.0132004","latitude":"42.6216904","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc618","type":"Conteneur vêtements, verre","longitude":"3.0132004","latitude":"42.6216904","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 {"code":"struc620","type":"Conteneur verre, papier","longitude":"3.5932249","latitude":"44.3227851","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
@@ -626,7 +626,7 @@ var _containersDatas = [
 {"code":"struc625","type":"Conteneur verre","longitude":"3.3192864","latitude":"43.7303342","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc626","type":"Conteneur verre","longitude":"3.3102465","latitude":"43.7320954","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc627","type":"Conteneur verre","longitude":"3.0294339","latitude":"42.6177455","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc628","type":"Conteneur vÃªtements","longitude":"3.0045193","latitude":"42.6079506","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc628","type":"Conteneur vêtements","longitude":"3.0045193","latitude":"42.6079506","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 {"code":"struc630","type":"Conteneur verre, papier, canettes","longitude":"3.3287074","latitude":"43.7030103","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
@@ -708,9 +708,9 @@ var _containersDatas = [
 {"code":"struc707","type":"Conteneur verre, papier","longitude":"3.8404325","latitude":"43.6265646","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc708","type":"Conteneur verre","longitude":"3.8602355","latitude":"43.6322852","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc709","type":"Conteneur verre, papier","longitude":"2.6767249","latitude":"42.6608422","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc710","type":"Conteneur verre, papier, vÃªtements","longitude":"2.6775671","latitude":"42.6579308","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc710","type":"Conteneur verre, papier, vêtements","longitude":"2.6775671","latitude":"42.6579308","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc711","type":"Conteneur verre","longitude":"3.8552547","latitude":"43.6362272","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc712","type":"Conteneur vÃªtements","longitude":"4.2523489","latitude":"43.8024485","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc712","type":"Conteneur vêtements","longitude":"4.2523489","latitude":"43.8024485","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 
 {"code":"struc715","type":"Conteneur verre","longitude":"3.8411685","latitude":"43.6289919","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -725,7 +725,7 @@ var _containersDatas = [
 {"code":"struc724","type":"Conteneur papier, verre, canettes","longitude":"3.3147761","latitude":"43.6937391","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 {"code":"struc726","type":"Conteneur verre, papier, plastique, canettes","longitude":"3.3483976","latitude":"43.6827833","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc727","type":"Conteneur verre, papier, vÃªtements, canettes","longitude":"2.9246302","latitude":"43.2271529","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc727","type":"Conteneur verre, papier, vêtements, canettes","longitude":"2.9246302","latitude":"43.2271529","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc728","type":"Conteneur verre","longitude":"3.8276578","latitude":"43.6116261","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc729","type":"Conteneur verre, papier, plastique, canettes","longitude":"3.3042051","latitude":"43.6533878","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc730","type":"Conteneur verre","longitude":"3.0981431","latitude":"43.1102157","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -782,7 +782,7 @@ var _containersDatas = [
 
 {"code":"struc782","type":"Conteneur verre","longitude":"4.2039578","latitude":"43.8247343","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc783","type":"Conteneur verre, papier","longitude":"4.4309822","latitude":"43.7693966","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc784","type":"Conteneur verre, vÃªtements","longitude":"4.4349617","latitude":"43.7667683","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc784","type":"Conteneur verre, vêtements","longitude":"4.4349617","latitude":"43.7667683","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc785","type":"Conteneur verre, papier","longitude":"4.4277287","latitude":"43.7752343","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 
@@ -793,15 +793,15 @@ var _containersDatas = [
 
 {"code":"struc793","type":"Conteneur verre, papier","longitude":"4.2853223","latitude":"43.7626781","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc794","type":"Conteneur verre","longitude":"3.9791971","latitude":"43.7677305","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc795","type":"Conteneur verre, vÃªtements","longitude":"4.4356866","latitude":"43.7987826","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc795","type":"Conteneur verre, vêtements","longitude":"4.4356866","latitude":"43.7987826","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc796","type":"Conteneur verre, papier, canettes","longitude":"4.6397789","latitude":"44.2408582","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc797","type":"Conteneur verre","longitude":"4.1214673","latitude":"43.6858272","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc798","type":"Conteneur verre","longitude":"4.1134862","latitude":"44.0224154","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc799","type":"Conteneur verre","longitude":"4.2014945","latitude":"43.7833804","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc800","type":"Conteneur vÃªtements","longitude":"4.2269685","latitude":"43.8072838","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc800","type":"Conteneur vêtements","longitude":"4.2269685","latitude":"43.8072838","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc801","type":"Conteneur papier","longitude":"4.4399245","latitude":"43.7688871","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc802","type":"Conteneur verre","longitude":"4.427439","latitude":"43.7669818","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc803","type":"Conteneur verre, vÃªtements","longitude":"4.4314653","latitude":"43.7651382","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc803","type":"Conteneur verre, vêtements","longitude":"4.4314653","latitude":"43.7651382","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc804","type":"Conteneur verre, papier","longitude":"2.8856669","latitude":"42.6905888","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 {"code":"struc806","type":"Conteneur papier","longitude":"3.8461244","latitude":"43.6317097","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -815,7 +815,7 @@ var _containersDatas = [
 {"code":"struc814","type":"Conteneur verre","longitude":"4.1202811","latitude":"43.7717468","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc815","type":"Conteneur verre","longitude":"4.1554808","latitude":"43.7534939","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
-{"code":"struc817","type":"DÃ©chÃ¨terie de Choudeyrague centre","longitude":"4.2920487","latitude":"43.9928426","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc817","type":"Déchèterie de Choudeyrague centre","longitude":"4.2920487","latitude":"43.9928426","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc818","type":"Conteneur verre","longitude":"4.1463229","latitude":"43.6813716","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc819","type":"Conteneur verre","longitude":"4.152654","latitude":"43.685904","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
@@ -826,7 +826,7 @@ var _containersDatas = [
 {"code":"struc825","type":"Conteneur verre","longitude":"3.8817536","latitude":"43.6096309","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc826","type":"Conteneur verre","longitude":"3.8764124","latitude":"43.6088984","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
-{"code":"struc828","type":"Conteneur vÃªtements","longitude":"4.4317467","latitude":"43.7701236","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc828","type":"Conteneur vêtements","longitude":"4.4317467","latitude":"43.7701236","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc829","type":"Conteneur verre, papier","longitude":"4.3531811","latitude":"44.1316046","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc830","type":"Conteneur verre, papier","longitude":"3.4713389","latitude":"44.2868032","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
@@ -839,14 +839,14 @@ var _containersDatas = [
 {"code":"struc838","type":"Conteneur verre","longitude":"2.7188781","latitude":"43.2684754","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc839","type":"Conteneur verre, papier, canettes","longitude":"3.115133","latitude":"43.237819","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
-{"code":"struc841","type":"Conteneur verre, papier, vÃªtements","longitude":"3.8130392","latitude":"43.6903725","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc841","type":"Conteneur verre, papier, vêtements","longitude":"3.8130392","latitude":"43.6903725","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc842","type":"Conteneur papier, verre","longitude":"3.5898573","latitude":"44.335611","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 
 
 {"code":"struc846","type":"Conteneur verre, papier","longitude":"2.1386075","latitude":"43.0289195","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
-{"code":"struc848","type":"Conteneur verre, papier, vÃªtements","longitude":"2.2567064","latitude":"43.2277079","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc848","type":"Conteneur verre, papier, vêtements","longitude":"2.2567064","latitude":"43.2277079","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 {"code":"struc850","type":"Conteneur verre","longitude":"3.129306","latitude":"43.1303191","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc851","type":"Conteneur verre","longitude":"3.1319319","latitude":"43.1334055","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -920,7 +920,7 @@ var _containersDatas = [
 {"code":"struc919","type":"Conteneur verre, papier, plastique, canettes","longitude":"3.47062","latitude":"43.624158","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc920","type":"Conteneur verre","longitude":"3.8734238","latitude":"43.6344846","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc921","type":"Conteneur verre","longitude":"3.8790526","latitude":"43.6346271","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc922","type":"Conteneur verre, vÃªtements","longitude":"3.4383808","latitude":"43.4352083","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc922","type":"Conteneur verre, vêtements","longitude":"3.4383808","latitude":"43.4352083","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc923","type":"Conteneur verre","longitude":"3.4424723","latitude":"43.443286","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc924","type":"Conteneur verre, papier, plastique, canettes","longitude":"3.6173353","latitude":"43.8294245","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc925","type":"Conteneur verre","longitude":"3.6180768","latitude":"43.8266805","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -939,7 +939,7 @@ var _containersDatas = [
 {"code":"struc938","type":"Conteneur verre","longitude":"3.8517996","latitude":"43.7400522","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc939","type":"Conteneur verre","longitude":"3.8553696","latitude":"43.7402142","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
-{"code":"struc941","type":"Conteneur verre, vÃªtements","longitude":"3.8662148","latitude":"43.697746","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc941","type":"Conteneur verre, vêtements","longitude":"3.8662148","latitude":"43.697746","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc942","type":"Conteneur papier, canettes","longitude":"2.4233227","latitude":"42.6161506","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 {"code":"struc944","type":"Conteneur verre, papier","longitude":"3.8588507","latitude":"43.7011322","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -953,7 +953,7 @@ var _containersDatas = [
 {"code":"struc952","type":"Conteneur verre, papier","longitude":"3.3638277","latitude":"43.5780565","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc953","type":"Conteneur papier","longitude":"3.8087609","latitude":"43.7020579","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc954","type":"Conteneur verre","longitude":"3.0130067","latitude":"43.189297","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc955","type":"Conteneur verre, vÃªtements","longitude":"2.9986927","latitude":"43.1857942","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc955","type":"Conteneur verre, vêtements","longitude":"2.9986927","latitude":"43.1857942","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 
 {"code":"struc958","type":"Conteneur verre, papier","longitude":"3.8096273","latitude":"43.6525209","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -973,15 +973,15 @@ var _containersDatas = [
 {"code":"struc972","type":"Conteneur papier, canettes, papier, canettes","longitude":"2.8978828","latitude":"42.6807537","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 
-{"code":"struc975","type":"Conteneur vÃªtements","longitude":"2.8988824","latitude":"42.6847127","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc975","type":"Conteneur vêtements","longitude":"2.8988824","latitude":"42.6847127","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc976","type":"Conteneur papier, canettes","longitude":"3.0122661","latitude":"43.1804405","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc977","type":"Conteneur verre, papier, canettes","longitude":"3.0101562","latitude":"43.1805477","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc978","type":"Conteneur papier","longitude":"3.008073","latitude":"43.1812708","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc979","type":"Conteneur papier","longitude":"3.0182588","latitude":"43.1861708","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc980","type":"Conteneur papier","longitude":"3.0152219","latitude":"43.18622","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc981","type":"Conteneur verre","longitude":"3.8807277","latitude":"43.6516032","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc982","type":"Conteneur verre, vÃªtements","longitude":"2.9819412","latitude":"43.185173","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc983","type":"DÃ©cheterie centre","longitude":"3.3523227","latitude":"44.2378873","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc982","type":"Conteneur verre, vêtements","longitude":"2.9819412","latitude":"43.185173","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc983","type":"Décheterie centre","longitude":"3.3523227","latitude":"44.2378873","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc984","type":"Conteneur verre, plastique","longitude":"3.6715643","latitude":"43.4883658","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc985","type":"Conteneur verre, plastique","longitude":"3.670539","latitude":"43.4894145","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc986","type":"Conteneur verre, plastique","longitude":"3.6928","latitude":"43.5151934","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -989,23 +989,23 @@ var _containersDatas = [
 {"code":"struc988","type":"Conteneur verre, papier, plastique","longitude":"3.0294582","latitude":"43.6424095","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc989","type":"Conteneur verre, plastique","longitude":"3.03015","latitude":"43.6435512","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
-{"code":"struc991","type":"DÃ©chetterie centre","longitude":"4.0796128","latitude":"43.5694701","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc992","type":"Conteneur verre, papier, vÃªtements","longitude":"3.7457041","latitude":"43.6906864","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc991","type":"Déchetterie centre","longitude":"4.0796128","latitude":"43.5694701","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc992","type":"Conteneur verre, papier, vêtements","longitude":"3.7457041","latitude":"43.6906864","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc993","type":"PAV conteneur","longitude":"4.3486158","latitude":"43.7289642","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc994","type":"Conteneur vÃªtements","longitude":"3.8544023","latitude":"43.6116187","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc994","type":"Conteneur vêtements","longitude":"3.8544023","latitude":"43.6116187","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc995","type":"Conteneur verre","longitude":"3.0341316","latitude":"42.7883537","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc996","type":"Conteneur papier, papier, verre","longitude":"3.0379451","latitude":"42.784347","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 
-{"code":"struc999","type":"Conteneur verre, papier, vÃªtements","longitude":"4.2269859","latitude":"43.9796865","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc1000","type":"Conteneur vÃªtements","longitude":"3.889883","latitude":"43.6029972","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc999","type":"Conteneur verre, papier, vêtements","longitude":"4.2269859","latitude":"43.9796865","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1000","type":"Conteneur vêtements","longitude":"3.889883","latitude":"43.6029972","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1001","type":"Conteneur verre","longitude":"3.8847139","latitude":"43.6030882","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc1002","type":"Conteneur verre, vÃªtements","longitude":"3.8828542","latitude":"43.603125","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1002","type":"Conteneur verre, vêtements","longitude":"3.8828542","latitude":"43.603125","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1003","type":"Conteneur verre","longitude":"3.8959864","latitude":"43.6068099","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1004","type":"Conteneur verre","longitude":"3.8919258","latitude":"43.6123387","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1005","type":"Conteneur verre, papier","longitude":"3.8813036","latitude":"43.6160787","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc1006","type":"Conteneur vÃªtements","longitude":"3.8827255","latitude":"43.6170831","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc1007","type":"Conteneur vÃªtements","longitude":"3.8920129","latitude":"43.6178693","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1006","type":"Conteneur vêtements","longitude":"3.8827255","latitude":"43.6170831","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1007","type":"Conteneur vêtements","longitude":"3.8920129","latitude":"43.6178693","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1008","type":"Conteneur verre","longitude":"3.8638273","latitude":"43.6190754","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1009","type":"Conteneur verre","longitude":"2.1992064","latitude":"42.9798093","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1010","type":"Conteneur verre, papier, canettes","longitude":"2.218262","latitude":"42.9343132","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -1015,7 +1015,7 @@ var _containersDatas = [
 {"code":"struc1014","type":"Conteneur verre","longitude":"3.0795134","latitude":"43.6018908","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1015","type":"Conteneur verre, papier, plastique, canettes","longitude":"3.4550534","latitude":"43.616421","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1016","type":"Conteneur piles","longitude":"4.3481704","latitude":"44.3083601","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc1017","type":"Conteneur vÃªtements, verre","longitude":"3.8867535","latitude":"43.6026092","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1017","type":"Conteneur vêtements, verre","longitude":"3.8867535","latitude":"43.6026092","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1018","type":"Conteneur verre, papier","longitude":"2.8975988","latitude":"43.1288037","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1019","type":"Conteneur verre, papier","longitude":"4.1919397","latitude":"43.5641267","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1020","type":"Conteneur verre, papier","longitude":"4.1919326","latitude":"43.5641296","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -1026,7 +1026,7 @@ var _containersDatas = [
 
 
 {"code":"struc1027","type":"Conteneur verre","longitude":"3.7047253","latitude":"43.5481052","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc1028","type":"point propretÃ© conteneur","longitude":"3.8611297","latitude":"43.6704951","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1028","type":"point propreté conteneur","longitude":"3.8611297","latitude":"43.6704951","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1029","type":"Conteneur verre","longitude":"3.3871941","latitude":"43.941027","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1030","type":"Conteneur verre","longitude":"3.3888125","latitude":"43.9552387","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
@@ -1048,15 +1048,15 @@ var _containersDatas = [
 {"code":"struc1047","type":"Conteneur verre, papier","longitude":"4.029045","latitude":"43.5584654","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1048","type":"Conteneur verre, papier, plastique, canettes","longitude":"2.9730051","latitude":"43.6108267","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1049","type":"Conteneur verre","longitude":"4.1405486","latitude":"43.7464019","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc1050","type":"Conteneur verre, vÃªtements","longitude":"4.2063176","latitude":"43.779371","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc1051","type":"Conteneur verre, vÃªtements","longitude":"4.1638664","latitude":"43.777598","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1050","type":"Conteneur verre, vêtements","longitude":"4.2063176","latitude":"43.779371","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1051","type":"Conteneur verre, vêtements","longitude":"4.1638664","latitude":"43.777598","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 {"code":"struc1053","type":"Conteneur verre, papier, canettes","longitude":"1.9348572","latitude":"42.4402421","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1054","type":"Conteneur verre, papier, canettes","longitude":"3.4969146","latitude":"44.3327914","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 
 
-{"code":"struc1058","type":"Conteneur verre, verre, papier, papier, vÃªtements","longitude":"3.0312736","latitude":"42.7964748","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1058","type":"Conteneur verre, verre, papier, papier, vêtements","longitude":"3.0312736","latitude":"42.7964748","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 
 
@@ -1105,7 +1105,7 @@ var _containersDatas = [
 
 
 
-{"code":"struc1107","type":"Conteneur verre, vÃªtements","longitude":"4.0644671","latitude":"43.6212523","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1107","type":"Conteneur verre, vêtements","longitude":"4.0644671","latitude":"43.6212523","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1108","type":"Conteneur verre","longitude":"4.0639759","latitude":"43.6224049","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 {"code":"struc1110","type":"Conteneur verre, papier","longitude":"4.1914203","latitude":"43.9071496","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -1113,7 +1113,7 @@ var _containersDatas = [
 {"code":"struc1112","type":"Conteneur verre","longitude":"4.193833","latitude":"43.9090855","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 
-{"code":"struc1115","type":"Conteneur verre, vÃªtements","longitude":"3.9305328","latitude":"43.5844223","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1115","type":"Conteneur verre, vêtements","longitude":"3.9305328","latitude":"43.5844223","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1116","type":"Conteneur verre, papier","longitude":"3.9383684","latitude":"43.5907696","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 {"code":"struc1118","type":"Conteneur verre, papier","longitude":"3.1589511","latitude":"42.4285718","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -1123,8 +1123,8 @@ var _containersDatas = [
 
 {"code":"struc1123","type":"Conteneur canettes, verre","longitude":"3.9219352","latitude":"43.5240167","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
-{"code":"struc1125","type":"Conteneur vÃªtements, verre","longitude":"3.9204157","latitude":"43.5269254","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc1126","type":"Conteneur vÃªtements, verre","longitude":"3.9204018","latitude":"43.526943","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1125","type":"Conteneur vêtements, verre","longitude":"3.9204157","latitude":"43.5269254","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1126","type":"Conteneur vêtements, verre","longitude":"3.9204018","latitude":"43.526943","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 
 {"code":"struc1129","type":"Conteneur verre","longitude":"3.7183499","latitude":"43.5038771","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -1136,56 +1136,56 @@ var _containersDatas = [
 {"code":"struc1135","type":"Conteneur verre, papier","longitude":"3.7124362","latitude":"43.5005254","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1136","type":"Conteneur verre, plastique","longitude":"3.7103284","latitude":"43.5010341","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1137","type":"Conteneur verre","longitude":"3.7129369","latitude":"43.5010673","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc1138","type":"Conteneur vÃªtements","longitude":"3.9342411","latitude":"43.5839152","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1138","type":"Conteneur vêtements","longitude":"3.9342411","latitude":"43.5839152","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1139","type":"Conteneur verre, papier","longitude":"3.9404589","latitude":"43.5853487","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 
 
 {"code":"struc1143","type":"Conteneur papier, verre","longitude":"3.8520761","latitude":"43.5886697","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
-{"code":"struc1145","type":"Conteneur verre, vÃªtements","longitude":"3.3029775","latitude":"43.5532731","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1145","type":"Conteneur verre, vêtements","longitude":"3.3029775","latitude":"43.5532731","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1146","type":"Conteneur verre","longitude":"3.8860292","latitude":"43.6093444","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1147","type":"Conteneur verre","longitude":"3.8918769","latitude":"43.6089674","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc1148","type":"Conteneur verre, vÃªtements","longitude":"3.888893","latitude":"43.6076088","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1148","type":"Conteneur verre, vêtements","longitude":"3.888893","latitude":"43.6076088","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 
 {"code":"struc1151","type":"Conteneur verre","longitude":"3.0462686","latitude":"42.541443","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1152","type":"Conteneur verre, papier","longitude":"3.0480213","latitude":"42.5427783","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 
-{"code":"struc1155","type":"Conteneur verre, vÃªtements","longitude":"3.3342549","latitude":"43.5370953","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1155","type":"Conteneur verre, vêtements","longitude":"3.3342549","latitude":"43.5370953","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1156","type":"Conteneur verre","longitude":"3.8994701","latitude":"43.5743207","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1157","type":"Conteneur verre, papier","longitude":"3.9013936","latitude":"43.5759013","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc1158","type":"Conteneur vÃªtements","longitude":"3.9044313","latitude":"43.5704323","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1158","type":"Conteneur vêtements","longitude":"3.9044313","latitude":"43.5704323","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1159","type":"Conteneur verre","longitude":"3.9049103","latitude":"43.562527","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1160","type":"Conteneur verre, verre","longitude":"3.9148736","latitude":"43.5719495","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc1161","type":"Conteneur verre, papier, vÃªtements","longitude":"3.9148961","latitude":"43.5741006","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc1162","type":"Conteneur verre, vÃªtements","longitude":"3.9079727","latitude":"43.5783906","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc1163","type":"Conteneur verre, papier, vÃªtements","longitude":"3.9065903","latitude":"43.5678469","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1161","type":"Conteneur verre, papier, vêtements","longitude":"3.9148961","latitude":"43.5741006","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1162","type":"Conteneur verre, vêtements","longitude":"3.9079727","latitude":"43.5783906","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1163","type":"Conteneur verre, papier, vêtements","longitude":"3.9065903","latitude":"43.5678469","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1164","type":"Conteneur verre","longitude":"3.9111159","latitude":"43.5695038","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
-{"code":"struc1166","type":"Conteneur verre, papier, vÃªtements","longitude":"3.9042269","latitude":"43.5729016","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1166","type":"Conteneur verre, papier, vêtements","longitude":"3.9042269","latitude":"43.5729016","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1167","type":"Conteneur verre, papier, canettes","longitude":"1.9247011","latitude":"42.431462","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1168","type":"Conteneur verre","longitude":"3.3319303","latitude":"43.3044695","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1169","type":"Conteneur verre","longitude":"3.3372699","latitude":"43.3041764","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1170","type":"Conteneur verre, papier, plastique","longitude":"3.2596643","latitude":"43.2884398","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1171","type":"Conteneur verre, papier, plastique","longitude":"3.4719016","latitude":"43.6941902","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1172","type":"Conteneur verre, papier, plastique","longitude":"3.4701635","latitude":"43.6902826","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc1173","type":"Conteneur verre, vÃªtements","longitude":"3.1641629","latitude":"43.6942012","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1173","type":"Conteneur verre, vêtements","longitude":"3.1641629","latitude":"43.6942012","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 {"code":"struc1175","type":"Conteneur verre","longitude":"3.1663809","latitude":"43.6948133","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1176","type":"Conteneur verre","longitude":"3.1616961","latitude":"43.7000502","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1177","type":"Conteneur verre","longitude":"3.298503","latitude":"43.5548576","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 {"code":"struc1179","type":"Conteneur verre","longitude":"3.2722505","latitude":"43.5095855","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc1180","type":"Conteneur verre, vÃªtements","longitude":"3.2684995","latitude":"43.5171936","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1180","type":"Conteneur verre, vêtements","longitude":"3.2684995","latitude":"43.5171936","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1181","type":"Conteneur verre","longitude":"3.2739083","latitude":"43.5135325","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1182","type":"Conteneur papier, plastique, canettes","longitude":"3.5482012","latitude":"43.6498506","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1183","type":"Conteneur verre","longitude":"4.1432342","latitude":"43.7459701","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1184","type":"Conteneur verre","longitude":"3.3071624","latitude":"43.5058153","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1185","type":"Conteneur papier","longitude":"2.0367768","latitude":"42.4911996","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1186","type":"Conteneur papier","longitude":"2.0317718","latitude":"42.4943819","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc1187","type":"Conteneur vÃªtements, papier, verre","longitude":"2.0333813","latitude":"42.4966494","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1187","type":"Conteneur vêtements, papier, verre","longitude":"2.0333813","latitude":"42.4966494","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 
 {"code":"struc1190","type":"Conteneur papier, verre","longitude":"2.0342706","latitude":"42.4987024","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -1201,11 +1201,11 @@ var _containersDatas = [
 {"code":"struc1200","type":"Conteneur verre","longitude":"3.7980191","latitude":"43.8777162","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1201","type":"Conteneur verre, papier","longitude":"3.5327129","latitude":"44.4838834","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1202","type":"Conteneur verre","longitude":"3.8059584","latitude":"43.5968704","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc1203","type":"DÃ©chÃ¨terie de Saint-Jean-de-la-BlaquiÃ¨re centre","longitude":"3.4307272","latitude":"43.7170326","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1203","type":"Déchèterie de Saint-Jean-de-la-Blaquière centre","longitude":"3.4307272","latitude":"43.7170326","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1204","type":"Conteneur verre, plastique","longitude":"3.7663155","latitude":"43.6762147","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1205","type":"Conteneur verre, papier, plastique","longitude":"3.4251991","latitude":"43.7147958","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1206","type":"Conteneur verre","longitude":"4.1375781","latitude":"43.6721126","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc1207","type":"Conteneur verre, vÃªtements","longitude":"3.0624452","latitude":"43.5782483","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1207","type":"Conteneur verre, vêtements","longitude":"3.0624452","latitude":"43.5782483","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1208","type":"Conteneur verre, papier, canettes","longitude":"2.9510184","latitude":"43.2332224","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1209","type":"Conteneur verre","longitude":"4.1739465","latitude":"43.7229858","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1210","type":"Conteneur verre","longitude":"3.5133813","latitude":"43.9112279","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -1220,16 +1220,16 @@ var _containersDatas = [
 {"code":"struc1219","type":"Conteneur verre","longitude":"4.2072175","latitude":"43.6861265","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1220","type":"Conteneur verre","longitude":"4.2075059","latitude":"43.6864284","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1221","type":"Conteneur verre","longitude":"4.1714237","latitude":"43.7163573","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc1222","type":"Conteneur verre, papier, vÃªtements","longitude":"4.1681348","latitude":"43.7202853","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1222","type":"Conteneur verre, papier, vêtements","longitude":"4.1681348","latitude":"43.7202853","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 {"code":"struc1224","type":"Conteneur verre","longitude":"3.860792","latitude":"43.5816303","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1225","type":"Conteneur verre","longitude":"3.8596703","latitude":"43.5819932","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1226","type":"Conteneur verre","longitude":"4.1920334","latitude":"43.7885341","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1227","type":"Conteneur verre","longitude":"4.2015284","latitude":"43.7902733","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc1228","type":"Conteneur verre, vÃªtements","longitude":"4.301365","latitude":"43.7845062","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1228","type":"Conteneur verre, vêtements","longitude":"4.301365","latitude":"43.7845062","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 {"code":"struc1230","type":"Conteneur verre","longitude":"4.1978522","latitude":"43.7400964","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc1231","type":"Conteneur verre, vÃªtements","longitude":"4.2022952","latitude":"43.7411985","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1231","type":"Conteneur verre, vêtements","longitude":"4.2022952","latitude":"43.7411985","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1232","type":"Conteneur verre","longitude":"3.0285344","latitude":"42.6902888","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 {"code":"struc1234","type":"Conteneur verre","longitude":"4.2060561","latitude":"43.7357557","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -1288,7 +1288,7 @@ var _containersDatas = [
 
 
 {"code":"struc1289","type":"Conteneur verre","longitude":"2.8801478","latitude":"42.7612631","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc1290","type":"Conteneur vÃªtements","longitude":"4.1423008","latitude":"43.7317487","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1290","type":"Conteneur vêtements","longitude":"4.1423008","latitude":"43.7317487","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1291","type":"Conteneur verre, papier, canettes","longitude":"4.5354107","latitude":"44.0444374","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1292","type":"Conteneur verre, papier, canettes","longitude":"4.5789751","latitude":"44.0428294","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1293","type":"Conteneur verre, verre","longitude":"3.0339265","latitude":"42.7673419","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -1304,9 +1304,8 @@ var _containersDatas = [
 
 {"code":"struc1304","type":"Conteneur verre","longitude":"3.8610007","latitude":"43.6232114","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
-{"code":"struc1306","type":"Conteneur verre, papier, vÃªtements","longitude":"4.1426373","latitude":"43.7538941","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc1307","type":"DÃ©chetterie La Capellane centre","longitude":"4.6333357","latitude":"44.1909451","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc1307","type":"DÃ©chetterie La Capellane centre","longitude":"4.6333357","latitude":"44.1909451","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1306","type":"Conteneur verre, papier, vêtements","longitude":"4.1426373","latitude":"43.7538941","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1307","type":"Déchetterie La Capellane centre","longitude":"4.6333357","latitude":"44.1909451","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 
 
@@ -1317,7 +1316,7 @@ var _containersDatas = [
 
 {"code":"struc1316","type":"Conteneur verre","longitude":"3.0338045","latitude":"42.8010376","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
-{"code":"struc1318","type":"Conteneur verre, vÃªtements","longitude":"3.0330706","latitude":"42.8058439","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1318","type":"Conteneur verre, vêtements","longitude":"3.0330706","latitude":"42.8058439","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 {"code":"struc1320","type":"Conteneur verre","longitude":"3.0353463","latitude":"42.8110301","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1321","type":"Conteneur verre","longitude":"3.0364182","latitude":"42.8299691","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -1715,7 +1714,7 @@ var _containersDatas = [
 {"code":"struc1713","type":"Conteneur verre, papier, plastique, canettes","longitude":"3.9388875","latitude":"43.5296457","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 
-{"code":"struc1716","type":"Conteneur vÃªtements","longitude":"4.0700292","latitude":"43.5590606","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1716","type":"Conteneur vêtements","longitude":"4.0700292","latitude":"43.5590606","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1717","type":"Conteneur verre, verre","longitude":"4.0987203","latitude":"43.5627869","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 {"code":"struc1719","type":"Conteneur verre","longitude":"4.0911066","latitude":"43.562078","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -1741,7 +1740,7 @@ var _containersDatas = [
 {"code":"struc1739","type":"Conteneur papier, papier, verre","longitude":"3.8565979","latitude":"43.5833367","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 
-{"code":"struc1742","type":"Conteneur vÃªtements","longitude":"4.1006546","latitude":"43.5658751","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1742","type":"Conteneur vêtements","longitude":"4.1006546","latitude":"43.5658751","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 {"code":"struc1744","type":"Conteneur verre, papier","longitude":"2.8846734","latitude":"42.6948816","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1745","type":"Conteneur verre, papier","longitude":"3.0404092","latitude":"42.8493306","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -1761,14 +1760,14 @@ var _containersDatas = [
 {"code":"struc1759","type":"Conteneur verre","longitude":"3.0420937","latitude":"42.8457617","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1760","type":"Conteneur verre","longitude":"3.0420954","latitude":"42.8457769","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1761","type":"Conteneur verre, papier","longitude":"2.8865101","latitude":"42.7196612","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc1762","type":"Conteneur verre, vÃªtements","longitude":"2.883438","latitude":"42.720208","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1762","type":"Conteneur verre, vêtements","longitude":"2.883438","latitude":"42.720208","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1763","type":"Conteneur papier, verre","longitude":"3.9122214","latitude":"43.611804","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1764","type":"Conteneur verre","longitude":"3.9105363","latitude":"43.61614","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 
 
 {"code":"struc1768","type":"Conteneur papier","longitude":"2.8893711","latitude":"42.7007705","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc1769","type":"Conteneur verre, vÃªtements","longitude":"4.3490174","latitude":"43.8461338","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1769","type":"Conteneur verre, vêtements","longitude":"4.3490174","latitude":"43.8461338","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 {"code":"struc1771","type":"Conteneur verre","longitude":"4.349868","latitude":"43.8486776","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1772","type":"Conteneur verre","longitude":"3.9124764","latitude":"43.6073309","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -1810,7 +1809,7 @@ var _containersDatas = [
 {"code":"struc1808","type":"Conteneur verre","longitude":"4.1394425","latitude":"43.6780103","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1809","type":"Conteneur verre, papier","longitude":"2.8814746","latitude":"42.6936533","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1810","type":"Conteneur verre, papier","longitude":"2.8830953","latitude":"42.6940182","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc1811","type":"point propretÃ© conteneur","longitude":"3.864327","latitude":"43.669805","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1811","type":"point propreté conteneur","longitude":"3.864327","latitude":"43.669805","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 
 {"code":"struc1814","type":"Conteneur verre, papier, plastique","longitude":"3.9777568","latitude":"44.4018964","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -1830,8 +1829,8 @@ var _containersDatas = [
 {"code":"struc1828","type":"Conteneur verre","longitude":"4.2187949","latitude":"43.7431116","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1829","type":"Conteneur verre","longitude":"4.2162981","latitude":"43.7432138","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1830","type":"Conteneur verre","longitude":"2.2712661","latitude":"42.5365565","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc1831","type":"Conteneur vÃªtements","longitude":"2.8989514","latitude":"42.6935819","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc1832","type":"Conteneur vÃªtements","longitude":"2.8873909","latitude":"42.6947728","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1831","type":"Conteneur vêtements","longitude":"2.8989514","latitude":"42.6935819","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1832","type":"Conteneur vêtements","longitude":"2.8873909","latitude":"42.6947728","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1833","type":"Conteneur verre","longitude":"3.0734665","latitude":"43.6194344","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1834","type":"Conteneur verre","longitude":"3.0624548","latitude":"43.6250218","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
@@ -1850,16 +1849,16 @@ var _containersDatas = [
 {"code":"struc1848","type":"Conteneur verre","longitude":"4.1260538","latitude":"43.521168","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 
-{"code":"struc1851","type":"Conteneur verre, vÃªtements","longitude":"4.222755","latitude":"43.7474156","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1851","type":"Conteneur verre, vêtements","longitude":"4.222755","latitude":"43.7474156","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1852","type":"Conteneur verre","longitude":"4.2234575","latitude":"43.7484913","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 
 {"code":"struc1855","type":"Conteneur verre","longitude":"4.2128384","latitude":"43.7456622","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1856","type":"Conteneur verre, papier, canettes","longitude":"3.5501604","latitude":"43.655064","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc1857","type":"Conteneur verre, papier, vÃªtements, canettes","longitude":"3.5411184","latitude":"43.6535346","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1857","type":"Conteneur verre, papier, vêtements, canettes","longitude":"3.5411184","latitude":"43.6535346","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1858","type":"Conteneur verre, papier, canettes","longitude":"3.539966","latitude":"43.6538149","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
-{"code":"struc1860","type":"Conteneur vÃªtements, verre","longitude":"3.8885264","latitude":"43.5950481","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1860","type":"Conteneur vêtements, verre","longitude":"3.8885264","latitude":"43.5950481","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 {"code":"struc1862","type":"Conteneur verre, papier","longitude":"3.8467896","latitude":"43.6887626","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
@@ -1870,22 +1869,22 @@ var _containersDatas = [
 
 {"code":"struc1869","type":"Conteneur verre, papier","longitude":"2.8798643","latitude":"42.7063253","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1870","type":"Conteneur verre","longitude":"2.8915197","latitude":"42.6827189","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc1871","type":"Conteneur verre, papier, vÃªtements","longitude":"2.8923631","latitude":"42.6866065","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1871","type":"Conteneur verre, papier, vêtements","longitude":"2.8923631","latitude":"42.6866065","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 {"code":"struc1873","type":"Conteneur verre","longitude":"4.2133311","latitude":"43.727961","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc1874","type":"Conteneur verre, papier, vÃªtements","longitude":"4.2179404","latitude":"43.72892","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1874","type":"Conteneur verre, papier, vêtements","longitude":"4.2179404","latitude":"43.72892","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 
 {"code":"struc1877","type":"Conteneur verre","longitude":"4.2253699","latitude":"43.7320747","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1878","type":"Conteneur verre, papier, plastique, canettes","longitude":"4.4196804","latitude":"44.0196228","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc1879","type":"Conteneur vÃªtements, papier, verre","longitude":"4.1777911","latitude":"43.7195871","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1879","type":"Conteneur vêtements, papier, verre","longitude":"4.1777911","latitude":"43.7195871","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 
 
 
 
 
-{"code":"struc1886","type":"Conteneur verre, papier, vÃªtements","longitude":"4.2585344","latitude":"43.7405529","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1886","type":"Conteneur verre, papier, vêtements","longitude":"4.2585344","latitude":"43.7405529","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1887","type":"Conteneur verre","longitude":"4.2689846","latitude":"43.7586215","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1888","type":"Conteneur verre","longitude":"4.2319967","latitude":"43.7880404","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1889","type":"Conteneur verre","longitude":"4.2433901","latitude":"43.7925367","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
@@ -1896,15 +1895,15 @@ var _containersDatas = [
 
 {"code":"struc1895","type":"Conteneur verre","longitude":"4.1388044","latitude":"43.720941","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1896","type":"Conteneur papier, plastique","longitude":"2.4420905","latitude":"42.5897035","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc1897","type":"Conteneur verre, papier, vÃªtements, plastique, canettes","longitude":"3.5402842","latitude":"43.6502207","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1897","type":"Conteneur verre, papier, vêtements, plastique, canettes","longitude":"3.5402842","latitude":"43.6502207","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
 
 {"code":"struc1900","type":"Conteneur verre, papier, plastique, canettes","longitude":"2.9118161","latitude":"43.5548229","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1901","type":"Conteneur verre","longitude":"4.088195","latitude":"43.809345","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1902","type":"Point d'apport volontaire 0","longitude":"3.7904008","latitude":"43.9273846","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
-{"code":"struc1903","type":"Conteneur verre, papier, vÃªtements","longitude":"3.8169785","latitude":"43.614254","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{"code":"struc1903","type":"Conteneur verre, papier, vêtements","longitude":"3.8169785","latitude":"43.614254","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1904","type":"Conteneur verre","longitude":"3.815491","latitude":"43.6097761","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 {"code":"struc1905","type":"Conteneur verre","longitude":"3.812847","latitude":"43.6168321","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
 
-{"code":"struc1907","type":"Conteneur verre, papier, plastique, canettes","longitude":"2.9758227","latitude":"43.1840271","src":"OpenDataMontpellier/OpenStreetMap 10/14"}
-];
+{"code":"struc1907","type":"Conteneur verre, papier, plastique, canettes","longitude":"2.9758227","latitude":"43.1840271","src":"OpenDataMontpellier/OpenStreetMap 10/14"},
+{} ];

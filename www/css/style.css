@@ -24,3 +24,29 @@
 .mode-collecte .description br {
     height: 0.1em;
 }
+
+/* CRN */
+
+.conseil {
+    
+    background-color: #c6deff;
+    padding:0.2em;
+    margin:0.4em 0em;
+    margin-left:1em;
+}
+
+.conseil .description {
+    padding-top: 0.2em;
+    padding-left: 0.8em;
+    color:#555;
+}
+
+/* HACK : la description contient des images, des BR et c'est moche : on ne les affichent pas => à enlever des DATA !!! */
+.conseil .description img {
+    
+    display: none;
+}
+
+.conseil .description br {
+    height: 0.1em;
+}

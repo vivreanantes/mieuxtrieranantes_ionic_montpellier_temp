@@ -18,6 +18,17 @@
           </div>
       </div>
         
+	<p><b>Conseils </b></p>
+  	<!-- CRN -->
+    <div class="conseil" ng-repeat="conseil in conseils" ng-click="toggleObject2.item2 = $index">
+    	  {{ conseil.nom }}<br/>
+          <!-- INFO conseil s'affiche uniquement sur ng-click du conseil -->
+          <div class="description" ng-show="toggleObject2.item2 == $index" class="conseil-info">
+              <!-- HTML BRUT affiché car le champ descr contient des balises HTML -->
+              <p ng-bind-html="conseil.descr"></p>
+          </div>
+      </div>
+      
       <p><b>Concerne :</b> {{dechet.descr}}</p>
       <p><b>Source :</b> {{dechet.src}}</p>
         
